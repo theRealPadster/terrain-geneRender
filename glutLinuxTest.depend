@@ -1,0 +1,218 @@
+# depslib dependency file v1.0
+1371604924 source:/media/data/padster/Documents/GraphicalFinal-done-linux/main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<algorithm>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1365435296 /usr/include/stdlib.h
+	<features.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<xlocale.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib-float.h>
+	<bits/stdlib.h>
+	<bits/stdlib-ldbl.h>
+
+1365435288 /usr/include/features.h
+	<stdc-predef.h>
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1365435288 /usr/include/stdc-predef.h
+
+1365435301 /usr/include/sys/cdefs.h
+	<features.h>
+	<bits/wordsize.h>
+
+1365435296 /usr/include/bits/wordsize.h
+
+1365435288 /usr/include/gnu/stubs.h
+	<gnu/stubs-32.h>
+	<gnu/stubs-64.h>
+	<gnu/stubs-x32.h>
+
+1365621395 /usr/include/gnu/stubs-32.h
+
+1365435361 /usr/include/gnu/stubs-64.h
+
+1365435300 /usr/include/bits/waitflags.h
+
+1365435300 /usr/include/bits/waitstatus.h
+	<endian.h>
+
+1365435298 /usr/include/endian.h
+	<features.h>
+	<bits/endian.h>
+	<bits/byteswap.h>
+
+1365435298 /usr/include/bits/endian.h
+
+1365435298 /usr/include/bits/byteswap.h
+	<features.h>
+	<bits/types.h>
+	<bits/wordsize.h>
+	<bits/byteswap-16.h>
+
+1365435300 /usr/include/bits/types.h
+	<features.h>
+	<bits/wordsize.h>
+	<bits/typesizes.h>
+
+1365435300 /usr/include/bits/typesizes.h
+
+1365435298 /usr/include/bits/byteswap-16.h
+
+1365435289 /usr/include/xlocale.h
+
+1365435300 /usr/include/sys/types.h
+	<features.h>
+	<bits/types.h>
+	<time.h>
+	<stddef.h>
+	<endian.h>
+	<sys/select.h>
+	<sys/sysmacros.h>
+	<bits/pthreadtypes.h>
+
+1365435299 /usr/include/time.h
+	<features.h>
+	<stddef.h>
+	<bits/time.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<xlocale.h>
+
+1365435299 /usr/include/bits/time.h
+	<bits/types.h>
+	<bits/types.h>
+	<bits/timex.h>
+
+1365435299 /usr/include/bits/timex.h
+	<bits/types.h>
+
+1365435301 /usr/include/sys/select.h
+	<features.h>
+	<bits/types.h>
+	<bits/select.h>
+	<bits/sigset.h>
+	<time.h>
+	<bits/time.h>
+	<bits/select2.h>
+
+1365435301 /usr/include/bits/select.h
+	<bits/wordsize.h>
+
+1365435296 /usr/include/bits/sigset.h
+
+1365435301 /usr/include/bits/select2.h
+
+1365435300 /usr/include/sys/sysmacros.h
+	<features.h>
+
+1365435300 /usr/include/bits/pthreadtypes.h
+	<bits/wordsize.h>
+
+1365435296 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1365435296 /usr/include/bits/stdlib-float.h
+
+1365435296 /usr/include/bits/stdlib.h
+
+1365435296 /usr/include/bits/stdlib-ldbl.h
+
+1365435295 /usr/include/math.h
+	<features.h>
+	<bits/huge_val.h>
+	<bits/huge_valf.h>
+	<bits/huge_vall.h>
+	<bits/inf.h>
+	<bits/nan.h>
+	<bits/mathdef.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls.h>
+	<bits/mathinline.h>
+	<bits/math-finite.h>
+
+1365435295 /usr/include/bits/huge_val.h
+	<endian.h>
+
+1365435295 /usr/include/bits/huge_valf.h
+
+1365435295 /usr/include/bits/huge_vall.h
+
+1365435295 /usr/include/bits/inf.h
+
+1365435295 /usr/include/bits/nan.h
+	<endian.h>
+
+1365435295 /usr/include/bits/mathdef.h
+
+1365435295 /usr/include/bits/mathcalls.h
+
+1365435295 /usr/include/bits/mathinline.h
+
+1365435295 /usr/include/bits/math-finite.h
+
+1366063845 /usr/include/GL/glut.h
+	"freeglut_std.h"
+
+1366063845 /usr/include/GL/freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1369421810 /usr/include/GL/gl.h
+	"gl_mangle.h"
+	<stdlib.h>
+	<windows.h>
+	<GL/glext.h>
+
+1369421810 /usr/include/GL/gl_mangle.h
+
+1369421810 /usr/include/GL/glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1365435296 /usr/include/inttypes.h
+	<features.h>
+	<stdint.h>
+	<stddef.h>
+
+1365435296 /usr/include/stdint.h
+	<features.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+
+1365435299 /usr/include/bits/wchar.h
+	<bits/wordsize.h>
+
+1361895477 /usr/include/GL/glu.h
+	"glu_mangle.h"
+	<GL/gl.h>
+
+1361895477 /usr/include/GL/glu_mangle.h
+
